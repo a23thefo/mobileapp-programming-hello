@@ -11,4 +11,4 @@ Jag ändrade titeln och text-arean till "God Eftermiddag"
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](Screenshot.png)
+![Screenshot.png]()
